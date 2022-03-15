@@ -1,0 +1,32 @@
+body{
+    background-color: rgba(100, 148, 237, 0.336);
+}
+
+div{
+    border: brown;
+
+}
+h1{
+    color: crimson;
+}
+h2{
+    color: darkgoldenrod;
+}
+h3{
+    color: darkolivegreen;
+}
+h4{
+    color: deeppink;
+}
+
+H5{
+    color: gold;
+}
+h6{
+    color: indigo;
+}
+
+h7{
+    color: lawngreen;
+    font-size: xx-large;
+}

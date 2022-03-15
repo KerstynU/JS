@@ -1,0 +1,67 @@
+první prvek nula 
+array= pole 
+do hranatých závorek 
+
+let teploty [ 8,10,9,5,15,25];
+
+teploty [5]
+25
+
+přepsání
+teploty [0] = 80    to co je napravo ukladam do toho na levo 
+80
+
+připsání
+teploty [6] = -5
+80,10,9,5,15,25, -5
+
+teploty.lenght - kolik je proměnných zjistím takto 
+7
+
+teploty.push(55):
+8
+teploty
+80,10,9,5,15,25, -5,55
+
+
+teploty.pop()    vypadne poslední
+
+let novaPromenna = teploty.pop ()
+
+novaPromenna
+false
+
+zvirata.unshift("rybicky" pridava veci na zacatek 
+
+zvirata.shift() bere na konci 
+
+zvirata.indexOf("žirafa")  zjistíme index    -1 když tam není  
+
+
+pole se daji spojova 
+zvirata + papousci
+
+zvirata.concat(papusci)
+spojuje dve pole 
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
+
+let zoo = zvirata.concat(papousci)   vysledek uložen do proměnný 
+v zoo jsou zvirata a papousci 
+
+
+let cislo 1
+let cislo 2 u císel je vse ok ale u polí nejsou pole nazavislá pridá se to pak vsude kdyz se to propojí
+
+zvirata.splice(1, 2, "velbloud", "GORILA")   kolik veci mam vymazat a co tam vlozim misto toho
+
+zvirata.splice(Cod 6 vymazat a vymazat pouze 1)
+
+    zvirata.slice( 2, 4 )  vytáhne se 2 a treti úpozice ulozi ty co vybereme, vyrizne usek, nemenní puvodni promenny
+    novyKosik=kosik.slice( ) 
+
+    ROZpojení 
+    jesteNovýKosik = [...kosik]; vysepe se dop novýho kosíku
+    
+
+

@@ -1,0 +1,19 @@
+.formular{
+    border: dashed salmon;
+    width: 50%;
+    height: 50%;
+}
+
+.contact{
+    border: solid blue;
+width: 40%;
+height: 30%;
+align-items:;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(100, 148, 237, 0);
+}
